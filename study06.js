@@ -41,3 +41,4 @@ let jj = {data3:'Money',...ii}
 console.log(jj)
 let kk = {data3:'Money',ii}
 console.log(kk)
+
